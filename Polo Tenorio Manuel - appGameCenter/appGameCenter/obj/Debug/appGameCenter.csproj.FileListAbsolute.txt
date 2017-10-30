@@ -1,0 +1,7 @@
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe.config
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\bin\Debug\appGameCenter.exe
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\bin\Debug\appGameCenter.pdb
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\obj\Debug\appGameCenter.exe
+C:\Users\Tarde\Pictures\Manuel\appGameCenter\appGameCenter\obj\Debug\appGameCenter.pdb
